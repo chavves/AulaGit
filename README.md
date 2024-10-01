@@ -1,2 +1,2 @@
-# AulaGit
- Primeiro repositório do curso de Git/GitHub
+# Olá, Mundo! 🎉
+ Seja bem-vindo(a) ao meu primeiro repositório do curso de Git/GitHub.
